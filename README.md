@@ -101,12 +101,6 @@ This project demonstrates:
 
 ---
 
-## 🏆 Hackathon Project
 
-Built for showcasing:
-
-* Innovation in optimization
-* Interdisciplinary AI + Biology
-* Explainable pipeline
 
 ---
