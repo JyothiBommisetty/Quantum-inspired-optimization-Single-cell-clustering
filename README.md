@@ -1,7 +1,7 @@
 # Quantum-inspired-optimization-Single-cell-clustering
 # 🧬 Quantum-Inspired Single-Cell Clustering
 
-A hackathon project combining **AI, optimization, and genomics** to cluster single-cell RNA sequencing data using **quantum-inspired techniques**.
+A project combining **AI, optimization, and genomics** to cluster single-cell RNA sequencing data using **quantum-inspired techniques**.
 
 ---
 
@@ -79,14 +79,10 @@ dashboard/index.html
 Open:
 
 ```
-notebooks/full_pipeline.ipynb
+quantum_clustering_project.ipynb
 ```
 
-### Option 2: Local
 
-```bash
-pip install -r requirements.txt
-python run_pipeline.py
 ```
 
 ---
